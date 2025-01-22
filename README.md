@@ -1,9 +1,11 @@
 Project Functionality/Overview:
 
+GitHub Link:
+
 Diagram/Diagrams for solutions:
 
 How-to:
 
-Project Progress:
+Project Change/Progress:
 
 Reference List:
