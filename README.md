@@ -26,7 +26,9 @@ Created a new project, CMPG 323 Netflix Project on GitHub.
 
 Added tasks, milestones, statuses, labels, due dates, efforts and linked assessments to the Netflix project and tasks, clearly estimating how long each task should be. Grouped the board view by efforts(duration) and the columns by Status.
 
-Created two charts, a line graph and column graph that compare statuses, efforts and labels
+Created two charts, a line graph and column graph that compare statuses, efforts and labels.
+
+Created an ASP.NET MVC Solution on Visual Studio.
 
 Reference List:
 
