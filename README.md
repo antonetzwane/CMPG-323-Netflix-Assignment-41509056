@@ -1,5 +1,7 @@
 Project Functionality/Overview:
 
+An ASP.NET solution must be created, preferably on Visual Studio, with specific models. A report must be generated on Power BI to further analyze and process the Netflix dataset provided. Fetching, storing, management and handling of data or the Netflix data will be done, for analysis purposes.Removing unecessary data duplicates on the data to prevent and avoid data redundancy and guarantee data accuracy. Further tasks like source control and scrum implementation occurs to ensure and track smooth progress.
+
 GitHub Repository:
 
 https://github.com/antonetzwane/CMPG-323-Netflix-Assignment-41509056
