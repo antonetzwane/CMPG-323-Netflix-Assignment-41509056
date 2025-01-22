@@ -1,6 +1,6 @@
 Project Functionality/Overview:
 
-GitHub Link:
+GitHub Repository:
 
 Diagram/Diagrams for solutions:
 
