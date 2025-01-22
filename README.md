@@ -30,6 +30,12 @@ Created two charts, a line graph and column graph that compare statuses, efforts
 
 Created an ASP.NET MVC Solution on Visual Studio.
 
+Created two models namely, Netflix Data and DataLink, which links or loads the data in the netflix excel file.
+
+Creates a controller named control data, to allow the control of data in GET, POST and DELETE methods.
+
+Included the GET, GET BY ID, POST, PATCH/PUT, DELETE, FETCH and deduplicate methods in the API project.
+
 Reference List:
 
 Google
