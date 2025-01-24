@@ -10,7 +10,17 @@ GitHub Project:
 
 https://github.com/users/antonetzwane/projects/4/views/1
 
-Diagram/Diagrams for solutions:
+One Drive Link
+
+https://nwuac-my.sharepoint.com/:x:/r/personal/41509056_mynwu_ac_za/Documents/netflix.xlsx?d=wae725968d1004c79ab009844a29b81af&csf=1&web=1&e=UASAS3
+
+Power BI Report
+
+https://app.powerbi.com/links/eD2iw-JcjZ?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare
+
+API Swagger URL
+
+https://localhost:7166/swagger/index.html
 
 How-to:
 
@@ -35,6 +45,8 @@ Created two models namely, Netflix Data and DataLink, which links or loads the d
 Creates a controller named control data, to allow the control of data in GET, POST and DELETE methods.
 
 Included the GET, GET BY ID, POST, PATCH/PUT, DELETE, FETCH and deduplicate methods in the API project.
+
+Created a Power.BI report named NetflixReport, added to pages namely, High-Level Summary and Detailed Summary. Added KPIs, metric and other charts for visualization.
 
 Reference List:
 
