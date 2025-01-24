@@ -14,6 +14,9 @@ One Drive Link
 
 https://nwuac-my.sharepoint.com/:x:/r/personal/41509056_mynwu_ac_za/Documents/netflix.xlsx?d=wae725968d1004c79ab009844a29b81af&csf=1&web=1&e=UASAS3
 
+Power BI Report
+
+https://app.powerbi.com/links/eD2iw-JcjZ?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare
 
 How-to:
 
