@@ -40,6 +40,8 @@ Creates a controller named control data, to allow the control of data in GET, PO
 
 Included the GET, GET BY ID, POST, PATCH/PUT, DELETE, FETCH and deduplicate methods in the API project.
 
+Created a Power.BI report named NetflixReport, added to pages namely, High-Level Summary and Detailed Summary. Added KPIs, metric and other charts for visualization.
+
 Reference List:
 
 Google
