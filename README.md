@@ -18,6 +18,10 @@ Power BI Report
 
 https://app.powerbi.com/links/eD2iw-JcjZ?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare
 
+API Swagger URL
+
+https://localhost:7166/swagger/index.html
+
 How-to:
 
 Project Change/Progress:
