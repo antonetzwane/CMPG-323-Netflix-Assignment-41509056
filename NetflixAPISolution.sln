@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetflixAPISolution", "NetflixAPISolution.csproj", "{A83C485D-2968-4EB6-95C2-DE28DF9B287D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83C485D-2968-4EB6-95C2-DE28DF9B287D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83C485D-2968-4EB6-95C2-DE28DF9B287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83C485D-2968-4EB6-95C2-DE28DF9B287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83C485D-2968-4EB6-95C2-DE28DF9B287D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC01CE9-5B77-489E-A4F9-97A55C958C0A}
+	EndGlobalSection
+EndGlobal
